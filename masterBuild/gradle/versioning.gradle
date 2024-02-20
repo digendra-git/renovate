@@ -22,7 +22,7 @@ ext {
     // renovatem depname=io.appium:java-client
     APPIUM_VERSION = "7.3.0"
     // renovatem depname=org.seleniumhq.selenium:selenium-java
-    SELENIUM_VERSION = "3.141.59"
+    SELENIUM_VERSION = "4.18.1"
     // renovatem depname=net.sourceforge.barbecue:barbecue
     BARBECUE_VERSION = "1.5-beta1"
     // renovatem depname=org.apache.xmlgraphics:batik-dom
